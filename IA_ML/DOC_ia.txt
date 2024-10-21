@@ -3,5 +3,12 @@
 +------------------------------+
 
 1-QUOI
+	+ it's refere : simulation of human intelligence in computer
+	+ it's about creating systems that can perform tsks requiring human-like thinking
+		learning
+		problem-solving
+		decisoin making
+	+ Basically, it's teaching machines to 
+		think and act smart
 2-POURQUOI
 3-COMMENT
