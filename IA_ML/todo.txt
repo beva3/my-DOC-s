@@ -1,0 +1,115 @@
+
++-----------------------+
+| Machine learning et IA|
++-----------------------+
+
+
+@_intelligence artificiel:
+-------------------------
+	capacity of machine a imiter les capacitee cognitive humaine,
+		resonner
+		resoudre des problem
+		prendre de decision
+		
+@_machine learning
+------------------
+	apprentissage automatique :
+		brache de l'IA
+	capacite de systeme informatique
+		d'apprendre 
+		de s'ameliorer 
+			...
+		a partir des data, sans etre explicitement programmer
+
+	exemple :
+		immaginer un enfant qui apprendre A connaitre le chat,
+			il voit de n chats different
+			observe leur caracteristique
+				petit a 2
+			il est capable de reconnaitre le chat meme s'il n'ai			    jamais vu de semblable
+@_difference
+------------
+	IA: concept general,
+	ML: outille method pour aateindre ce objectif,
+
+
++--------+
+|POURQUOI|
++--------+
+Exemple :
+	smartiPhone:
+		assistant vocal,
+		recinnaissance faciale,
+		recommandation de contenu,
+
+	Santee :
+		developper de nouveau medicaments,
+		ameliorree les diagnostique
+	Transport :
+		voiture autonome
+	...
+
++--------+
+|COMMENT |
++--------+
+Base :	
+	mathematiques:
+		algebre lineaire
+		statistique
+		probability
+		calcul numerique
+	programmation math, ..
+	
+	Project :
+		petit a petite
+	communoty
+
+Source : 
+	Google machine learning Crash Course
+	Kaggle
+	Fast.Ai
+		
+=============================================================
+
+
++----------------------+
+|  DATA ANALYSTE       |
++----------------------+
+
+@Pourquoi:
+~~~~~~~~~~
+	+ impacte reel sur les decisions strategique des entreprise
+	Data ----> information exploitable
+	
+	+ COMPETENCE RECHERCHEES
+		beacoups des entreprise ont besois des Competence en data analyste
+	
+	OportunitE dans divers secteure
+		FINENCE
+		MARKETING
+		SANTE
+		...
+	+ EMPRENTISSAGE CONTINUE:
+		technologie authentique
+		nouvelle technologie
+	
+	+ RESOLUTOIN DE PROBLEMES
+		Ambiansy any @ math
+		
+	+ CURIOSITE
+		la curiositE est requis dans le data analyste,
+			vous ests curieux
+
+@ comment
+~~~~~~~~~~
+	+ FORMATION
+		statistique
+		machine learning
+		outils des visualisation ( logiciel)
+	
+	+ PROJECT PERSONNEL
+		mettre en pratique votre connaissance
+
+
+	
+	
